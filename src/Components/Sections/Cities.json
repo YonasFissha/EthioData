@@ -1,0 +1,359 @@
+[
+  {
+    "Region": "Addis Ababa",
+    "Town": "addis ababa",
+    "Total_Cases": 16698,
+    "Total_Recovered": 3290,
+    "Total_Death": 122
+  },
+  {
+    "Region": "Afar",
+    "Town": "Region",
+    "Total_Cases": 391,
+    "Total_Recovered": 94,
+    "Total_Death": 1
+  },
+  {
+    "Region": "Afar",
+    "Town": "Semera",
+    "Total_Cases": 15,
+    "Total_Recovered": 10,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Afar",
+    "Town": "Gewane",
+    "Total_Cases": 12,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Afar",
+    "Town": "Dubti",
+    "Total_Cases": 3,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Amhara",
+    "Town": "Region",
+    "Total_Cases": 850,
+    "Total_Recovered": 285,
+    "Total_Death": 3
+  },
+  {
+    "Region": "Amhara",
+    "Town": "Metema",
+    "Total_Cases": 52,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Amhara",
+    "Town": "Bahirdar",
+    "Total_Cases": 9,
+    "Total_Recovered": 3,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Amhara",
+    "Town": "Ataye",
+    "Total_Cases": 3,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Amhara",
+    "Town": "West Gonder",
+    "Total_Cases": 2,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Amhara",
+    "Town": "Dessie",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Amhara",
+    "Town": "Gonder",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Amhara",
+    "Town": "Central Gonder",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Amhara",
+    "Town": "Woldia",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Benshangul Gumuz",
+    "Town": "Region",
+    "Total_Cases": 336,
+    "Total_Recovered": 12,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Benshangul Gumuz",
+    "Town": "Guba",
+    "Total_Cases": 2,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Benshangul Gumuz",
+    "Town": "Assosa",
+    "Total_Cases": 0,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Dire Dawa",
+    "Town": "Dire Dawa",
+    "Total_Cases": 624,
+    "Total_Recovered": 172,
+    "Total_Death": 6
+  },
+  {
+    "Region": "Gambela",
+    "Town": "Region",
+    "Total_Cases": 637,
+    "Total_Recovered": 1,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Gambela",
+    "Town": "Gambella",
+    "Total_Cases": 3,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Harari",
+    "Town": "Region",
+    "Total_Cases": 357,
+    "Total_Recovered": 6,
+    "Total_Death": 1
+  },
+  {
+    "Region": "Harari",
+    "Town": "Harar",
+    "Total_Cases": 7,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Region",
+    "Total_Cases": 2288,
+    "Total_Recovered": 172,
+    "Total_Death": 6
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Cross Border Drivers",
+    "Total_Cases": 14,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Batu/zeway",
+    "Total_Cases": 10,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Sebeta",
+    "Total_Cases": 6,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Adama",
+    "Total_Cases": 5,
+    "Total_Recovered": 1,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Burayou",
+    "Total_Cases": 2,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Ginchi",
+    "Total_Cases": 2,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Mojjo",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Sendafa",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Ambo",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Addis Ababa Zuria Special Zone",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Borena",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "moyale",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Jimma",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Oromia",
+    "Town": "Dukem",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Sidama",
+    "Town": "Region",
+    "Total_Cases": 430,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "SNNPR",
+    "Town": "Region",
+    "Total_Cases": 432,
+    "Total_Recovered": 6,
+    "Total_Death": 0
+  },
+  {
+    "Region": "SNNPR",
+    "Town": "Kembata-Tembaro Zone",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "SNNPR",
+    "Town": "Hadiya Zone",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "SNNPR",
+    "Town": "Butajira",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "SNNPR",
+    "Town": "Wolayita Sodo",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "SNNPR",
+    "Town": "Siltea zone",
+    "Total_Cases": 1,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "SNNPR",
+    "Town": "Hawasa",
+    "Total_Cases": 0,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Somali",
+    "Town": "Region",
+    "Total_Cases": 821,
+    "Total_Recovered": 84,
+    "Total_Death": 4
+  },
+  {
+    "Region": "Somali",
+    "Town": "Jijiga",
+    "Total_Cases": 82,
+    "Total_Recovered": 3,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Tigray",
+    "Town": "Region",
+    "Total_Cases": 1254,
+    "Total_Recovered": 174,
+    "Total_Death": 2
+  },
+  {
+    "Region": "Tigray",
+    "Town": "Mekele",
+    "Total_Cases": 24,
+    "Total_Recovered": 4,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Tigray",
+    "Town": "Humerra",
+    "Total_Cases": 9,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  },
+  {
+    "Region": "Tigray",
+    "Town": "Maycadra",
+    "Total_Cases": 7,
+    "Total_Recovered": 0,
+    "Total_Death": 0
+  }
+]
